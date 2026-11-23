@@ -1,1 +1,1 @@
-# prog-techniky_marpol
+# Zadanie 2 – Python
